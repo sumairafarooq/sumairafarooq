@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumaira Farooq</h1>
-<h3 align="center">A passionate frontend developer from India. Full Stack Developer familiar with wide range of programming utilities and languages.</h3>
+<h3 align="center">A passionate developer from India. Full Stack Developer familiar with wide range of programming utilities and languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumairafarooq&label=Profile%20views&color=0e75b6&style=flat" alt="sumairafarooq" /> </p>
 
