@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumairafarooq" alt="sumairafarooq" /></a> </p>
 
-- 💡 I’m currently working on **Ransomware Detection System**
+- 💡 I’m currently working on **Feature Extraction in images using Hybrid Quantum Technologies**
 
 - 🌟 My expertise includes **Quantum Computing, Circuit Design, Machine Learning, and Python**
 
